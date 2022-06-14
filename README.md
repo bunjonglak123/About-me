@@ -10,13 +10,13 @@ Birthdate 01/03/2002 DD/MM/YYYY    Age : 20 from Thailand currently living in Th
 
 # 📖Education
 
--Computer Science
--University king mongkut's university of technology north bangkok (not graduation now)
--August 2020
--Bangkok
+- Computer Science
+- University king mongkut's university of technology north bangkok (not graduation now)
+- August 2020
+- Bangkok
 
 ## 🖥Skill
--C
--C++
--python
--HTML/CSS
+- C
+- C++
+- python
+- HTML/CSS
