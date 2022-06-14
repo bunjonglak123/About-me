@@ -5,8 +5,8 @@ Birthdate 01/03/2002 DD/MM/YYYY    Age : 20 from Thailand currently living in Th
  👀 I’m interested in Coding/Anime/Music/Manga/Games/etc.
 
 > **Contact** 
-> bunjonglak123@hotmail.com 
-> panupong.kay123@gmail.com
+> - bunjonglak123@hotmail.com 
+> - panupong.kay123@gmail.com
 
 # 📖Education
 
