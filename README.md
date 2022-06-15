@@ -1,8 +1,8 @@
 # 😁Panupong Punyakhet (Guy) Profile
 **About me**
-👋 Hi, I’m @bunjonglak123 my name is Panupong Punyakhet nickname is Guy 
-\n Birthdate 01/03/2002 DD/MM/YYYY    Age : 20 from Thailand currently living in Thailand
- 👀 I’m interested in Coding/Anime/Music/Manga/Games/etc.
+👋 Hi, I’m @bunjonglak123 my name is Panupong Punyakhet nickname is Guy <br />
+Birthdate 01/03/2002 DD/MM/YYYY    Age : 20 <br />from Thailand currently living in Thailand
+<br /> 👀 I’m interested in Coding/Anime/Music/Manga/Games/etc.
 
 > **Contact** 
 > - bunjonglak123@hotmail.com 
@@ -10,13 +10,13 @@
 
 # 📖Education
 
-- Computer Science
-- University king mongkut's university of technology north bangkok (not graduation now)
-- August 2020
-- Bangkok
+Computer Science<br />
+University king mongkut's university of technology north bangkok (not graduation now)<br />
+August 2020<br />
+Bangkok<br />
 
 ## 🖥Skill
-- C
-- C++
-- python
-- HTML/CSS
+C<br />
+C++<br />
+python<br />
+HTML/CSS
