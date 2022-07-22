@@ -19,5 +19,5 @@ Bangkok<br />
 C<br />
 C++<br />
 python<br />
-HTML/CSS
+HTML/CSS/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunjonglak123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
