@@ -20,4 +20,6 @@ C<br />
 C++<br />
 python<br />
 HTML/CSS<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunjonglak123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunjonglak123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bunjonglak123&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
