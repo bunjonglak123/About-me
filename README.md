@@ -1,7 +1,7 @@
 # 😁Panupong Punyakhet (Guy) Profile
 **About me**
 👋 Hi, I’m @bunjonglak123 my name is Panupong Punyakhet nickname is Guy <br />
-Birthdate 01/03/2002 DD/MM/YYYY    Age : 20 <br />from Thailand currently living in Thailand
+Birthdate 01/03/2002 DD/MM/YYYY   <br />from Thailand currently living in Thailand
 <br /> 👀 I’m interested in Coding/Anime/Music/Manga/Games/etc.
 
 > **Contact** 
